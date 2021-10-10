@@ -1,0 +1,31 @@
+ion-fab-button {
+    width: 120px;
+    height: 120px;
+ }
+ 
+ .fab-horizontal-center {
+    margin-left: unset;
+    margin-inline-start: -50px !important;
+ }
+ .stopc{
+    position: absolute; bottom: 16%; width: 50%; height: 10%;
+    }
+.playc{
+    position: absolute; bottom: 16%; width: 50%; height: 10%; right: 0%;
+}
+.recordc{
+    position: absolute; bottom: 6.5%; width: 100%; height: 10%;
+}
+.redondo{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    --border-radius: 50%;
+    bottom: 60%;
+  }
+  .ff{
+      right:58%;
+  }
+  .rw{
+      left:58%;
+  }

@@ -1,0 +1,43 @@
+.medidas{
+    position: absolute;
+    width: 22.5%;
+    height: 17.5%;
+    border: 1px solid #000000;
+}
+//**Eje Y 
+.yplus{
+    top: 5%;
+}
+
+.yfirst{
+    top: 22.5%;
+}
+.ysecond{
+    top: 40%;
+}
+.yless{
+    top: 57.5%;
+}
+
+//* Eje X
+.xplus{
+    right: 5.2%;
+}
+.xfirst{
+    right: 27.5%;
+}
+.xsecond{
+    right: 50%;
+}
+.xless{
+    left: 4.7%;
+}
+
+.buttony{
+    position: absolute;
+    bottom:10%;
+    width: 29%;
+}
+.buttonx{
+    right: 35%;
+}
